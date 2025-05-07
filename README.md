@@ -1,3 +1,4 @@
+
 # Lab 8: Red Light, Green Light
 
 ## Materials
@@ -68,6 +69,7 @@ while True:
 1. Using the box in class, take distance readings of the secret shape and create a data table with your findings. 
 2. Using your data table and your knowledge of geometry identify the shape. On graph paper, draw your shape and calculate its area. 
 
+- [ ] Upload your data table, graph, and area calculation to GitHub
 ## Deliverables
 
 - Make sure all the deliverables above are  uploaded to the repository
