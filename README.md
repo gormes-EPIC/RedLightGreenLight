@@ -76,7 +76,9 @@ while True:
 - Answer the following questions:
 	1. How does the HC-SR04 sensor calculate distance?
 	2. Why is it important to clean up GPIO pins with GPIO.cleanup() at the end of the program?
-	3. How did your data help you identify the shape in Part 3?
+	3. How did you calculate whether the object was moving ≥ 1 cm/second? 
+	4. If your sensor gives you a series of distance readings over time, how can you calculate speed?
+	5. How did your data help you identify the shape in Part 3?
 ## Rubric 
 
 - 6 points - All required items are present.    
